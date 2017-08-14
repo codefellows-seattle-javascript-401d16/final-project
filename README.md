@@ -1,4 +1,4 @@
-# 401JS -- final-project
+# 401JS -- Final Project
 
 # Requirements
 * Proper use of version control
